@@ -1,8 +1,8 @@
-#Heart Disease in Patients
+# Heart Disease in Patients
 Syed Zain Ali, Eric Hou, Anna Kovtunenko, Rico Osamulia
 
-Introduction
-Background Information
+## Introduction
+### Background Information
 Heart disease encompasses various conditions affecting the heart, including coronary heart disease and cardiomyopathy (Centers for Disease Control and Prevention, 2023). It is a widespread health issue globally, claiming an estimated 17.9 million lives annually, with one-third of these deaths occurring prematurely in individuals under 70 years of age (World Health Organization, 2019). Factors such as high blood pressure and elevated cholesterol levels are associated with an increased risk of heart disease (Centers for Disease Control and Prevention, 2023).
 
 Early identification of heart disease in patients is crucial. Therefore, this project aims to evaluate the effectiveness of predicting a patient's likelihood of having heart disease based on two primary factors: ST depression induced by exercise relative to rest and maximum heart rate. The central question addressed is: How accurately can the presence of heart disease be predicted in patients through the classification of these key factors?
